@@ -12,3 +12,4 @@ Member<br/>
 * Live Video Streaming
 * OpenCV, Tensorflow
 * AWS Kinesis Video Stream
+* Machine Learning, Deep Learning
