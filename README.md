@@ -3,7 +3,8 @@
 💻 prospective back-end developer<br/>
 📚 C, C++, Python<br/>
 📜 AUSG 4th Member<br/>
-🏫 Anyang University - Computer Engineering (2019 ~)<br/>
+🏫 Anyang University -<br/>
+--- > Computer Engineering (2019 ~)<br/>
 
 <br/><br/>
 
