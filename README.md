@@ -10,6 +10,7 @@ Member<br/>
 ### 📜 Interested in
 * Real time image processing
 * Live Video Streaming
+* Image/Video compression
 * OpenCV, Tensorflow
 * AWS Kinesis Video Stream
 * Machine Learning, Deep Learning
