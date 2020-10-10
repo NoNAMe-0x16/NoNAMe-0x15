@@ -9,7 +9,7 @@
 <br/><br/>
 
 * * *
-### 📜 Interested in
+### 📜 Interested in <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoNAMe-0x16&hide=Jupyter%20Notebook&layout=compact">
 * Real time image processing
 * Live Video Streaming
 * Image/Video compression
