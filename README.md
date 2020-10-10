@@ -2,9 +2,11 @@
 [![Linkedin Badge](http://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/%EA%B7%9C%ED%83%9C-%EC%98%A4-b26582189/)](https://www.linkedin.com/in/%EA%B7%9C%ED%83%9C-%EC%98%A4-b26582189/)[![Techblog Badge](http://img.shields.io/badge/-Techblog-24292E?style=flat-square&logo=github&link=https://blog.naver.com/einokt)](https://blog.naver.com/einokt)<img align='right' src="https://github-readme-stats.vercel.app/api?username=NoNAMe-0x16&show_icons=true"><br/>
 💻 prospective back-end developer<br/>
 📚 C, C++, Python<br/>
+📜 AUSG 4th Member<br/>
 🏫 Anyang University - Computer Engineering (2019 ~)<br/>
-📜 AUSG 4th Member
-Member<br/>
+
+<br/><br/>
+
 * * *
 ### 📜 Interested in
 * Real time image processing
