@@ -14,4 +14,4 @@
 * OpenCV, Tensorflow
 * AWS Kinesis Video Stream
 * Machine Learning, Deep Learning
-* 
+* Computer Vision
