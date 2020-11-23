@@ -13,5 +13,6 @@
 * Image/Video compression
 * OpenCV, Tensorflow
 * AWS Kinesis Video Stream
+* AWS SageMaker
 * Machine Learning, Deep Learning
 * Computer Vision
