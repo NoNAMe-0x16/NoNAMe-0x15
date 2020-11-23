@@ -11,7 +11,7 @@
 * Real time image processing
 * Live Video Streaming
 * Image/Video compression
-* OpenCV, Tensorflow
+* OpenCV, Tensorflow, Pytorch
 * AWS Kinesis Video Stream
 * AWS SageMaker
 * Machine Learning, Deep Learning
