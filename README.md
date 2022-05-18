@@ -10,6 +10,5 @@
 ### 📜 Interested in <img align='right' src="https://github-readme-stats.vercel.app/api?username=RustShark&show_icons=true"><br/>
 * Real time image processing
 * Live Video Streaming
-* Image/Video compression
-* AWS Kinesis Video Stream
 * Computer Vision
+* Server Side Programming
