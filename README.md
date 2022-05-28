@@ -11,4 +11,4 @@
 * Real time image processing
 * Live Video Streaming
 * Computer Vision
-* Server Side Programming
+* Anything I can write with code
