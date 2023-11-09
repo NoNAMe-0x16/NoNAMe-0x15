@@ -4,6 +4,7 @@
 📜 AUSG 4th Member<br/>
 🏫 Anyang University - Computer Engineering (2019.03 ~ 2023.02)<br/>
 🏢 BluePotionGames - Game Server Engineer Intern (2022-09 ~ 2022-12)<br/>
+✈️ Republic Of Korea AirForce 847s (2023.04 ~ 2025.01)<br/>
 
 <br/><br/><br/>
 
