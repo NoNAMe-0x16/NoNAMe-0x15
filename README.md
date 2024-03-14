@@ -4,13 +4,14 @@
 📜 AUSG 4th Member<br/>
 🏫 Anyang University - Computer Engineering (2019.03 ~ 2023.02)<br/>
 🏢 BluePotionGames - Game Server Engineer Intern (2022-09 ~ 2022-12)<br/>
-✈️ Republic Of Korea AirForce 847s (2023.04 ~ 2025.01)<br/>
+✈️ Republic Of Korea AirForce 847s / Defence Integrated Data Center (2023.04 ~ 2025.01)<br/>
 
 <br/><br/><br/>
 
 * * *
 ### 📜 Interested in <img align='right' src="https://github-readme-stats.vercel.app/api?username=WagyuShark&show_icons=true"><br/>
-* Real time image processing
+* DevOps
+* Infrastructure / Server side engineering
 * Live Video Streaming
 * Game Server Programming
 * Computer Graphics / Engines
